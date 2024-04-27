@@ -1,2 +1,3 @@
 # Cadastro-Asp.Net-Core
-Repositório Criado com um cadastro feito em Asp.Net Core, utilizando libs bootstrap 
+Repositório Criado Contendo página principal, cadastro, remoção de cadastro e edição de cadastro tudo em Asp.Net Core
+Para o desenvolvimento front end utilizei bootstrap. 
