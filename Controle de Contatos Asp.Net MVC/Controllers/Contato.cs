@@ -20,7 +20,7 @@ namespace Controle_de_Contatos_Asp.Net_MVC.Controllers
             return View();
         }
 
-        public IActionResult Apagar()
+        public IActionResult ApagarConfirmacao()
         {
             return View();
         }
